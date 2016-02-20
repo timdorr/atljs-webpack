@@ -7,6 +7,7 @@
   "repository": "timdorr/atljs-webpack",
   "license": "WTFPL",
   "dependencies": {
-    "webpack": "^1.12.13"
+    "webpack": "^1.12.13",
+    "to-string-loader": "^1.1.3"
   }
 }
