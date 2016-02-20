@@ -1,1 +1,2 @@
-../node_modules/.bin/webpack entry.js bundle.js
+webpack entry.js bundle.js
+open index.html
