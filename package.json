@@ -1,0 +1,12 @@
+{
+  "name": "atljs-webpack",
+  "description": "A gentle intro to webpack",
+  "version": "0.0.0",
+  "author": "Tim Dorr <timdorr@timdorr.com>",
+  "homepage": "https://github.com/timdorr/atljs-webpack#readme",
+  "repository": "timdorr/atljs-webpack",
+  "license": "WTFPL",
+  "dependencies": {
+    "webpack": "^1.12.13"
+  }
+}
