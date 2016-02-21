@@ -11,7 +11,15 @@
     "2": "cd 2 && webpack entry.js bundle.js && open index.html"
   },
   "dependencies": {
-    "webpack": "^1.12.13",
-    "to-string-loader": "^1.1.3"
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "to-string-loader": "^1.1.3",
+    "webpack": "^1.12.13"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.3",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0"
   }
 }
