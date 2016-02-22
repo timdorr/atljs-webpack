@@ -1,4 +1,6 @@
 node_modules
+*.log
+
 bundle.js
 bundle.js.map
-*.log
+build/
